@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WebScrapper
 {
-    public partial class Form1 : Form
+    public partial class webscrapperForm : Form
     {
-        public Form1()
+        public webscrapperForm()
         {
             InitializeComponent();
         }
